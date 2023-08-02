@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    --primary: #F15152;
+    --text: #1F2041;
+    --background: #EDDDD4;
+}
+
+html, body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: var(--background);
+    color: var(--text);
+}
+
